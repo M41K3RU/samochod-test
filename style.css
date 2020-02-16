@@ -1,0 +1,17 @@
+body {
+    position: relative;
+}
+
+#car {
+    position: absolute;
+
+}
+
+.fuel {
+    height: 100px;
+    width: 100px;
+    background: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
